@@ -12,7 +12,7 @@ Departmental Impact: Assess the impact of layoffs across different departments o
 Interactive Visualizations: Provide visually appealing and interactive plots to facilitate data exploration and interpretation.
 
 # Dataset
-The project uses a dataset containing information about layoffs, including relevant metrics such as department, time, and other factors. The data is processed and analyzed using Python and popular data analysis libraries.
+The project uses a dataset from kaggle containing information about layoffs, including relevant metrics such as department, time, and other factors. The data is processed and analyzed using Python and popular data analysis libraries.
 
 # Dependencies
 Python 3.x
