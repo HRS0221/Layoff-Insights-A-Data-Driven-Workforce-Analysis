@@ -20,3 +20,4 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+plotly.express
