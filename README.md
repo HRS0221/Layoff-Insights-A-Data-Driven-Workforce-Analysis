@@ -1,6 +1,6 @@
 # Layoff Analysis Project
 # Overview
-This project aims to analyze and visualize layoff data to gain insights into workforce trends and identify potential areas of concern. Layoffs can have significant implications for both employees and organizations, and understanding the underlying patterns can inform strategic decision-making.
+This project aims to analyze and visualize layoff data from 2020 - 2024 to gain insights into workforce trends and identify potential areas of concern. Layoffs can have significant implications for both employees and organizations, and understanding the underlying patterns can inform strategic decision-making.
 
 # Key Features:
 Outlier Detection: Utilize statistical methods to identify outliers in relevant workforce metrics, helping to pinpoint unusual patterns that may indicate areas of interest.
